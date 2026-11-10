@@ -1,0 +1,46 @@
+#!/bin/sh
+# Maven Wrapper startup script for Unix
+# ----------------------------------------------------------------------------
+# Licensed to the Apache Software Foundation (ASF) under one
+# or more contributor license agreements.
+
+set -e
+
+# Find the project base directory (location of .mvn directory)
+findBaseDir () {
+  EXEC_DIR="$PWD"
+  WDIR="$PWD"
+  while [ "$WDIR" != '/' ] ; do
+    if [ -d "$WDIR"/.mvn ] ; then
+      BASE_DIR="$WDIR"
+      break
+    fi
+    WDIR=$(cd "$WDIR/.."; pwd)
+  done
+  if [ -z "$BASE_DIR" ]; then
+    BASE_DIR="$EXEC_DIR"
+  fi
+}
+
+findBaseDir
+
+MAVEN_WRAPPER_JAR="$BASE_DIR/.mvn/wrapper/maven-wrapper.jar"
+MAVEN_WRAPPER_PROPERTIES="$BASE_DIR/.mvn/wrapper/maven-wrapper.properties"
+
+# Read the maven distribution url from properties
+MAVEN_DISTRIBUTION_URL=$(grep -E '^distributionUrl' "$MAVEN_WRAPPER_PROPERTIES" | sed 's/distributionUrl=//')
+
+# Determine JAVA_HOME or java executable
+if [ -n "$JAVA_HOME" ] ; then
+  JAVA="$JAVA_HOME/bin/java"
+else
+  JAVA=$(which java)
+fi
+
+if [ -z "$JAVA" ]; then
+  echo "ERROR: Java is not installed or JAVA_HOME is not set." >&2
+  exit 1
+fi
+
+exec "$JAVA" -jar "$MAVEN_WRAPPER_JAR" "$MAVEN_DISTRIBUTION_URL" "$BASE_DIR" "$@"
+

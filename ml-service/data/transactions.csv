@@ -1,0 +1,282 @@
+merchant,description,amount,category
+Swiggy,ordered biryani for dinner,450,Food
+Zomato,lunch order paneer butter masala,380,Food
+McDonald's,burger and fries combo meal,290,Food
+Starbucks,caffe latte and muffin,520,Food
+Domino's,pizza delivery pepperoni large,650,Food
+Haldiram's,dinner with family sweets and snacks,1200,Food
+Saravana Bhavan,south indian thali lunch,350,Food
+BigBasket,monthly groceries vegetables fruits,3200,Food
+Blinkit,grocery delivery milk bread eggs,480,Food
+Swiggy,breakfast order dosa idli,180,Food
+Zomato,dinner order chinese noodles,420,Food
+KFC,chicken bucket meal family,890,Food
+Pizza Hut,pizza party order large medium,1100,Food
+Chai Point,tea and sandwich snack,150,Food
+Freshmenu,healthy lunch bowl quinoa salad,350,Food
+Swiggy,late night snack rolls,220,Food
+Zomato,biryani house chicken biryani,340,Food
+Dunkin Donuts,donuts and coffee breakfast,380,Food
+Subway,footlong sub meal deal,410,Food
+Nature's Basket,organic groceries premium store,2800,Food
+DMart,weekly groceries household items,1850,Food
+More Supermarket,fruits vegetables daily essentials,920,Food
+Spencer's,grocery shopping weekend,1450,Food
+Swiggy Instamart,instant grocery delivery snacks,350,Food
+Zomato,thai curry dinner order,550,Food
+Behrouz Biryani,hyderabadi biryani family pack,780,Food
+Box8,meals delivery wraps and rice,320,Food
+Faasos,wraps and rolls dinner order,280,Food
+Cafe Coffee Day,cappuccino and pastry,310,Food
+Barista,cold coffee and cake,420,Food
+Local Restaurant,dinner at punjabi dhaba,600,Food
+Local Restaurant,lunch thali special,250,Food
+Local Restaurant,breakfast at south indian cafe,180,Food
+Swiggy,ice cream delivery dessert,200,Food
+Zomato,sushi japanese restaurant dinner,1500,Food
+Blinkit,milk curd bread daily essentials,320,Food
+BigBasket,monthly ration rice dal oil,4500,Food
+JioMart,grocery order weekly essentials,2100,Food
+Swiggy,butter chicken and naan dinner,490,Food
+Zomato,street food chaat order,150,Food
+McDonald's,happy meal kids birthday,350,Food
+Starbucks,frappuccino and sandwich,680,Food
+Domino's,garlic bread and pasta combo,520,Food
+Local Bakery,cakes and pastries birthday,1200,Food
+Local Restaurant,family dinner at mughlai restaurant,2200,Food
+Swiggy,south indian breakfast dosa,160,Food
+Zomato,continental lunch pasta salad,450,Food
+Barbeque Nation,dinner buffet family outing,4500,Food
+Wow Momo,momos and dumplings snack,240,Food
+Local Restaurant,coffee and snacks evening,180,Food
+Amazon,bought wireless earbuds electronics,2499,Shopping
+Flipkart,new running shoes nike,4999,Shopping
+Myntra,kurta set ethnic wear purchase,1899,Shopping
+Ajio,jeans and tshirt casual wear,2350,Shopping
+Reliance Digital,phone charger and cable,899,Shopping
+Croma,laptop stand and mouse accessories,3200,Shopping
+Amazon,kitchen appliances mixer grinder,5500,Shopping
+Flipkart,backpack for office bag,1499,Shopping
+Nykaa,skincare products face wash moisturizer,1250,Shopping
+Amazon,bought books fiction novels,650,Shopping
+Flipkart,smart watch fitness tracker,3999,Shopping
+Myntra,formal shirt and trousers,2800,Shopping
+Amazon,home decor cushion covers curtains,1800,Shopping
+Snapdeal,phone case and screen guard,499,Shopping
+Tata CLiQ,branded sunglasses purchase,2100,Shopping
+Flipkart,headphones over ear bluetooth,1799,Shopping
+Amazon,water bottle and lunch box,750,Shopping
+Lenskart,new spectacles frames and lenses,3500,Shopping
+FirstCry,baby clothes and toys shopping,2200,Shopping
+Amazon,protein powder supplement,2800,Shopping
+Flipkart,television 43 inch smart tv,28999,Shopping
+Myntra,sneakers and sports shoes,3499,Shopping
+Amazon,external hard drive 1tb storage,4200,Shopping
+Ajio,winter jacket and hoodie,2999,Shopping
+Meesho,saree and blouse ethnic wear,1100,Shopping
+Amazon,bluetooth speaker portable,1999,Shopping
+Flipkart,tablet samsung galaxy tab,18999,Shopping
+Decathlon,sports equipment badminton racket,1500,Shopping
+IKEA,furniture shelf and organizer,4500,Shopping
+Amazon,stationery office supplies,380,Shopping
+Flipkart,clothing purchase tshirts combo,1299,Shopping
+Amazon,toys and games board game,850,Shopping
+Reliance Trends,family clothing shopping,3800,Shopping
+Shoppers Stop,branded clothing formal wear,5200,Shopping
+Myntra,ethnic wear wedding outfit,6500,Shopping
+Flipkart,mobile phone samsung galaxy,15999,Shopping
+Amazon,yoga mat and fitness accessories,1200,Shopping
+Pepperfry,sofa cushions home furnishing,3200,Shopping
+Urban Ladder,study table work desk,8500,Shopping
+Amazon,camera accessories tripod lens,4500,Shopping
+Flipkart,washing machine semi automatic,12999,Shopping
+Nykaa,makeup kit cosmetics lipstick,1800,Shopping
+Amazon,gardening tools and seeds,650,Shopping
+Uber,ride to office morning commute,180,Transport
+Ola,cab ride to airport terminal,850,Transport
+Rapido,bike taxi short ride market,60,Transport
+Delhi Metro,metro card recharge monthly pass,750,Transport
+Indian Oil,petrol pump fuel filling,2500,Transport
+HP Petrol Pump,diesel fuel car refueling,3200,Transport
+IRCTC,train ticket booking mumbai delhi,1850,Transport
+Uber,late night ride home party,320,Transport
+Ola,outstation trip weekend getaway,2500,Transport
+Rapido,auto ride to station,120,Transport
+Fastag,highway toll charges travel,350,Transport
+Uber,airport drop early morning,650,Transport
+Ola,office to home evening ride,200,Transport
+Bharat Petroleum,cng filling station gas,800,Transport
+MakeMyTrip,flight ticket booking domestic,5500,Transport
+Uber,ride to mall weekend,150,Transport
+Ola,cab ride to hospital,280,Transport
+IndiGo,flight booking bangalore to delhi,4200,Transport
+Rapido,bike ride to college,45,Transport
+Parking,parking charges mall basement,100,Transport
+Uber,shared ride to office pool,120,Transport
+Ola,ride to railway station,180,Transport
+EaseMyTrip,bus ticket booking overnight,900,Transport
+RedBus,bus ticket hyderabad to bangalore,1200,Transport
+Uber,weekend ride to restaurant,200,Transport
+Ola,ride to wedding venue,350,Transport
+SpiceJet,flight ticket mumbai goa,3800,Transport
+Yulu,bike rental short trip,30,Transport
+Bounce,scooter rental hourly city ride,80,Transport
+Delhi Metro,metro token single journey,40,Transport
+Mumbai Local,train pass monthly renewal,500,Transport
+Uber,surge pricing ride home late,450,Transport
+Rapido,auto to market quick errand,90,Transport
+Parking,office parking monthly charges,2000,Transport
+Toll Plaza,expressway toll national highway,250,Transport
+Indian Railways,tatkal ticket booking urgent,2200,Transport
+Uber,inter city ride long distance,1800,Transport
+Ola,rental car full day,3500,Transport
+Petrol Pump,bike fuel refilling petrol,400,Transport
+Uber,ride to doctor appointment,160,Transport
+Ola,airport pickup arrival,750,Transport
+Rapido,quick ride to atm nearby,50,Transport
+Jio,mobile recharge prepaid plan,599,Bills
+Airtel,postpaid bill monthly payment,799,Bills
+BSES,electricity bill quarterly payment,3500,Bills
+Tata Power,electricity bill monthly,2200,Bills
+Vodafone,mobile recharge unlimited plan,449,Bills
+Mahanagar Gas,piped gas bill monthly,800,Bills
+Hathway,internet broadband bill monthly,999,Bills
+ACT Fibernet,fiber internet monthly bill,1099,Bills
+Jio Fiber,broadband bill quarterly,3597,Bills
+Airtel DTH,dish tv recharge monthly,350,Bills
+Tata Sky,dth recharge annual plan,4200,Bills
+BSNL,landline and broadband bill,850,Bills
+Rent Payment,monthly house rent transfer,25000,Bills
+Housing Society,maintenance charges quarterly,4500,Bills
+LIC,life insurance premium annual,12000,Bills
+ICICI Lombard,health insurance premium,8500,Bills
+Water Board,water bill quarterly payment,600,Bills
+Municipal Tax,property tax annual payment,15000,Bills
+SBI Credit Card,credit card bill payment,18500,Bills
+HDFC Credit Card,credit card monthly payment,12000,Bills
+Jio,jio recharge annual plan,2999,Bills
+Airtel,airtel thanks recharge,399,Bills
+Indane Gas,lpg gas cylinder booking,1100,Bills
+HP Gas,cooking gas cylinder refill,1050,Bills
+Electricity Board,electricity meter bill,1800,Bills
+Tata Power,solar net metering bill,500,Bills
+MTNL,telephone bill monthly,450,Bills
+Bajaj Finserv,emi payment monthly loan,8500,Bills
+Home Loan,emi monthly housing loan,32000,Bills
+Car Loan,car emi monthly payment,15000,Bills
+Education Loan,education loan emi monthly,7500,Bills
+Airtel,fiber broadband monthly bill,1199,Bills
+Vi,mobile postpaid bill payment,549,Bills
+BESCOM,electricity consumption bill,2800,Bills
+Reliance Energy,power bill monthly payment,1950,Bills
+Internet Bill,office wifi monthly charges,1500,Bills
+Phone Recharge,family mobile recharge bulk,1200,Bills
+Insurance,vehicle insurance annual renewal,6500,Bills
+Gas Bill,cooking gas connection charge,1800,Bills
+Water Bill,municipal water supply charges,450,Bills
+Club Membership,annual club membership renewal,15000,Bills
+Netflix,monthly subscription streaming,649,Entertainment
+Amazon Prime,prime membership annual renewal,1499,Entertainment
+Spotify,music streaming monthly subscription,119,Entertainment
+BookMyShow,movie tickets weekend show,600,Entertainment
+PVR Cinemas,imax movie tickets avengers,900,Entertainment
+Disney+ Hotstar,annual subscription cricket,899,Entertainment
+Sony LIV,streaming subscription sports,499,Entertainment
+INOX,movie tickets family outing,1200,Entertainment
+YouTube Premium,ad free subscription monthly,129,Entertainment
+BookMyShow,stand up comedy show tickets,1500,Entertainment
+PVR,movie and popcorn combo deal,750,Entertainment
+Gaming,steam game purchase online,1800,Entertainment
+PlayStation,ps plus subscription annual,3999,Entertainment
+Xbox,game pass ultimate monthly,449,Entertainment
+Zee5,streaming subscription monthly,99,Entertainment
+JioCinema,premium subscription annual,999,Entertainment
+BookMyShow,concert tickets live music,3500,Entertainment
+Audible,audiobook subscription monthly,199,Entertainment
+Kindle,ebook purchase fiction thriller,350,Entertainment
+Apple Music,music streaming annual plan,1199,Entertainment
+Netflix,premium plan upgrade 4k,799,Entertainment
+Hotstar,ipl cricket streaming package,299,Entertainment
+BookMyShow,theatre play tickets drama,800,Entertainment
+PVR,3d movie screening tickets,650,Entertainment
+Gaming Cafe,gaming parlour hourly charges,300,Entertainment
+Amusement Park,wonderla entry tickets family,2400,Entertainment
+Water Park,aquatica tickets weekend fun,1500,Entertainment
+Board Games,new board game purchase hobby,1200,Entertainment
+Comedy Club,standup show open mic night,500,Entertainment
+Escape Room,mystery room team activity,1800,Entertainment
+Bowling Alley,bowling game fun activity,600,Entertainment
+Karaoke,karaoke night singing fun,400,Entertainment
+Netflix,shared plan family account,299,Entertainment
+Amazon Prime Video,movie rental new release,149,Entertainment
+Spotify,annual plan music streaming,1189,Entertainment
+VR Gaming,virtual reality gaming session,800,Entertainment
+Concert,music festival weekend pass,5000,Entertainment
+Museum,art exhibition entry tickets,200,Entertainment
+Theme Park,imagica entry passes family,6000,Entertainment
+Zoo,national zoo entry tickets family,400,Entertainment
+ATM,cash withdrawal sbi atm,5000,Others
+Gift,birthday gift friend purchase,2500,Others
+Donation,temple donation online pooja,1100,Others
+Apollo Pharmacy,medicines monthly prescription,1800,Others
+MedPlus,pharmacy medicines tablets,650,Others
+Doctor Visit,consultation fee specialist,1000,Others
+Hospital,pathology lab test blood work,2500,Others
+Gym,cult fit membership monthly,1500,Others
+Salon,haircut and grooming men,500,Others
+Tuition,coaching class monthly fee,5000,Others
+Medical Store,first aid supplies medicines,350,Others
+Diagnostic Center,full body health checkup,3500,Others
+Dental Clinic,dental cleaning and checkup,2000,Others
+Eye Clinic,eye checkup and new glasses,3000,Others
+Pet Shop,pet food and supplies dog,1200,Others
+Veterinary,vet visit pet vaccination,800,Others
+Dry Cleaner,clothes dry cleaning service,450,Others
+Laundry,weekly laundry service pickup,600,Others
+Courier,speed post parcel shipping,250,Others
+Legal,legal consultation fee lawyer,3000,Others
+CA Services,tax filing and consultation,5000,Others
+Passport,passport renewal tatkal fee,3500,Others
+Visa,visa application processing fee,8000,Others
+ATM,cash withdrawal hdfc atm,10000,Others
+Gift Shop,anniversary gift for spouse,3500,Others
+Charity,ngo donation annual contribution,5000,Others
+1mg,online pharmacy order medicines,1200,Others
+PharmEasy,medicine delivery monthly order,950,Others
+Practo,online doctor consultation,500,Others
+Gold Purchase,gold coin investment purchase,10000,Others
+Gym,gym membership quarterly renewal,4500,Others
+Spa,spa and massage therapy session,2500,Others
+Salon,hair coloring and styling women,2000,Others
+Udemy,online course web development,499,Others
+Coursera,certification course data science,3500,Others
+Stationery,office supplies printer ink,800,Others
+Home Repair,plumber visit pipe repair,1500,Others
+Electrician,electrical repair wiring work,1200,Others
+Carpenter,furniture repair and polish,2000,Others
+Society,parking slot annual charge,6000,Others
+ATM,cash withdrawal icici atm,3000,Others
+Gift,wedding gift for colleague,2000,Others
+Donation,gurudwara donation langar,500,Others
+Temple,temple offering puja samagri,300,Others
+Medical,physiotherapy session knee pain,1500,Others
+Pharmacy,vitamin supplements health store,900,Others
+Swiggy,morning tea and paratha,120,Food
+Zomato,dinner kebab platter order,680,Food
+Starbucks,cold brew and croissant,590,Food
+BigBasket,weekly fruits and vegetables,1800,Food
+Amazon,wireless mouse and keyboard combo,1599,Shopping
+Flipkart,winter thermal wear set,999,Shopping
+Myntra,designer kurti for festival,1500,Shopping
+Uber,ride to train station,200,Transport
+Ola,shared cab to office,130,Transport
+Rapido,quick ride to pharmacy,55,Transport
+Jio,quarterly recharge plan,1497,Bills
+Airtel,family plan postpaid bill,1299,Bills
+Electricity,monthly power bill consumption,2600,Bills
+Netflix,standard plan monthly bill,499,Entertainment
+BookMyShow,weekend movie night tickets,450,Entertainment
+Spotify,duo plan monthly music,149,Entertainment
+Apollo Pharmacy,diabetes medicines monthly,2200,Others
+Gym,annual gym membership renewal,12000,Others
+Salon,spa facial and cleanup,1800,Others

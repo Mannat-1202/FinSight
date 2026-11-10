@@ -1,0 +1,43 @@
+# === Java / Spring Boot ===
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+*.class
+*.jar
+*.war
+*.ear
+
+# === Node.js / Next.js ===
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# === Python ===
+ml-service/.venv/
+ml-service/__pycache__/
+ml-service/**/__pycache__/
+ml-service/*.pyc
+ml-service/models/*.joblib
+ml-service/models/*.pkl
+
+# === IDE ===
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# === Environment / Secrets ===
+.env
+.env.local
+.env.*.local
+*.env
+
+# === OS ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Logs ===
+*.log
+logs/
+
